@@ -1,6 +1,7 @@
 # Run alertmanager As A Service
 
 # Download alertmanager using below link
+    cd /opt
     wget https://github.com/prometheus/alertmanager/releases/download/v0.21.0/alertmanager-0.21.0.linux-amd64.tar.gz
 # Extract tar file
     tar xvzf alertmanager-0.21.0.linux-amd64.tar.gz
